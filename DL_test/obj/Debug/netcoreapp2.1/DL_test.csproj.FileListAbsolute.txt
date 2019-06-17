@@ -1,0 +1,11 @@
+C:\Users\Banner\source\repos\DL_test\DL_test\bin\Debug\netcoreapp2.1\DL_test.deps.json
+C:\Users\Banner\source\repos\DL_test\DL_test\bin\Debug\netcoreapp2.1\DL_test.runtimeconfig.json
+C:\Users\Banner\source\repos\DL_test\DL_test\bin\Debug\netcoreapp2.1\DL_test.runtimeconfig.dev.json
+C:\Users\Banner\source\repos\DL_test\DL_test\bin\Debug\netcoreapp2.1\DL_test.dll
+C:\Users\Banner\source\repos\DL_test\DL_test\bin\Debug\netcoreapp2.1\DL_test.pdb
+C:\Users\Banner\source\repos\DL_test\DL_test\obj\Debug\netcoreapp2.1\DL_test.csprojAssemblyReference.cache
+C:\Users\Banner\source\repos\DL_test\DL_test\obj\Debug\netcoreapp2.1\DL_test.csproj.CoreCompileInputs.cache
+C:\Users\Banner\source\repos\DL_test\DL_test\obj\Debug\netcoreapp2.1\DL_test.AssemblyInfoInputs.cache
+C:\Users\Banner\source\repos\DL_test\DL_test\obj\Debug\netcoreapp2.1\DL_test.AssemblyInfo.cs
+C:\Users\Banner\source\repos\DL_test\DL_test\obj\Debug\netcoreapp2.1\DL_test.dll
+C:\Users\Banner\source\repos\DL_test\DL_test\obj\Debug\netcoreapp2.1\DL_test.pdb
